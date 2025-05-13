@@ -1,61 +1,3 @@
-# Garage-management
-
-Web Fleet Management for a Company - designed to simplify the monitoring, allocation and maintenance of company vehicles, offering an interactive dashboard and advanced scheduling functions.
-
-📌 Main features
-Dynamic dashboard: graphical display of the media status via Chart.js
-
-Active means
-
-Equipment in maintenance
-
-Revision due or expired
-
-Insurance due or expired
-
-Fleet Management: grid interface with photo and clickable license plate for each vehicle
-
-Vehicle registration form:
-
-Vehicle type (Car, Van, Truck)
-
-Plate
-
-Photo of the booklet
-
-Insurance start/end date
-
-Due date for revision
-
-Employee assignment (with date)
-
-Completed assignments: historical archive of past assignments
-
-Login/admin system
-
-Data export and import from Excel
-
-Customization via "Settings" panel
-
-Automatic global footer with Recode Studio data
-
-🛠️ Technologies used
-Backend: PHP 8/ MySQL (also compatible with SQLite for local development)
-
-Frontend: HTML5, CSS3, Bootstrap 5
-
-Graphics: Chart.js
-
-Modern interface: Responsive and Mobile-Friendly
-
-Auxiliary libraries: jQuery, FontAwesome
-
-💡 Scenarios of use
-✅ Small/medium sized enterprises
-✅ Workshops or companies with fleet vehicles
-✅ Cooperatives or public bodies
-
-----
 # Gestionale Parco Auto Aziendale
 Gestionale Web per la Gestione del Parco Auto di un'Azienda – progettato per semplificare il monitoraggio, l'assegnazione e la manutenzione dei veicoli aziendali, offrendo una dashboard interattiva e funzioni avanzate di controllo scadenze.
 
@@ -113,3 +55,58 @@ Librerie ausiliarie: jQuery, FontAwesome
 ✅ Cooperative o enti pubblici
 
 ---
+
+Web Fleet Management for a Company - designed to simplify the monitoring, allocation and maintenance of company vehicles, offering an interactive dashboard and advanced scheduling functions.
+
+📌 Main features
+Dynamic dashboard: graphical display of the media status via Chart.js
+
+Active means
+
+Equipment in maintenance
+
+Revision due or expired
+
+Insurance due or expired
+
+Fleet Management: grid interface with photo and clickable license plate for each vehicle
+
+Vehicle registration form:
+
+Vehicle type (Car, Van, Truck)
+
+Plate
+
+Photo of the booklet
+
+Insurance start/end date
+
+Due date for revision
+
+Employee assignment (with date)
+
+Completed assignments: historical archive of past assignments
+
+Login/admin system
+
+Data export and import from Excel
+
+Customization via "Settings" panel
+
+Automatic global footer with Recode Studio data
+
+🛠️ Technologies used
+Backend: PHP 8/ MySQL (also compatible with SQLite for local development)
+
+Frontend: HTML5, CSS3, Bootstrap 5
+
+Graphics: Chart.js
+
+Modern interface: Responsive and Mobile-Friendly
+
+Auxiliary libraries: jQuery, FontAwesome
+
+💡 Scenarios of use
+✅ Small/medium sized enterprises
+✅ Workshops or companies with fleet vehicles
+✅ Cooperatives or public bodies
