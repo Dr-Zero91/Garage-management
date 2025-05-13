@@ -1,8 +1,5 @@
 MIT License
 
-Copyright (c) 2025
-MIT License
-
 Copyright (c) 2025 D-Zero91 by RecodeStudio
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
